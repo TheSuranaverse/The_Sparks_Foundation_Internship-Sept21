@@ -18,6 +18,14 @@
 - **PROGRAMMING LANGUAGE:-** Python
 - **TOOLS USED:-** Jupyter Notebook and GIT
 
+## TASK-6 : Prediction using Decision Tree Algorithm
+
+- **ABOUT:-** Create the Decision Tree Classifier for the given dataset
+- **TASK:-** Create the Decision Tree Classifier and visualize it graphically so that when any new data is fed, it would be able to predict the right class accordingly
+- **DATASET:-** [Iris.csv](https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view)
+- **PROGRAMMING LANGUAGE:-** Python
+- **TOOLS USED:-** Jupyter Notebook and GIT
+
 ## AUTHOR
 
 [Subham Surana](https://github.com/Neklaustares-tPtwP)
